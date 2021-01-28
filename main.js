@@ -4,5 +4,8 @@ const app = {
             msg: 'Hello, vue'
         }
     }
+    
 }
+
+
 Vue.createApp(app).mount('#app')
